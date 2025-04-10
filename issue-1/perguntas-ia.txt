@@ -1,0 +1,55 @@
+Você já ouviu falar em “segurança cibernética”? O que esse termo significa para você?
+(Resposta aberta — ajuda a entender o nível de familiaridade com o tema)
+
+Você já teve algum problema relacionado à segurança digital? Como por exemplo: conta invadida, golpe online, perda de senha etc.?
+( ) Sim
+( ) Não
+( ) Não sei dizer
+
+Se sim, qual foi o tipo de problema que você enfrentou?
+(Resposta aberta — caso a resposta anterior tenha sido "sim")
+
+Com que frequência você utiliza a internet para atividades como redes sociais, compras online, bancos ou serviços públicos?
+( ) Todos os dias
+( ) Algumas vezes por semana
+( ) Raramente
+( ) Nunca
+
+Você costuma criar senhas diferentes para cada conta online?
+( ) Sim
+( ) Não
+( ) Às vezes
+( ) Não sei como fazer isso
+
+Você já recebeu mensagens suspeitas por e-mail, WhatsApp ou redes sociais pedindo informações pessoais ou para clicar em links?
+( ) Sim, várias vezes
+( ) Sim, algumas vezes
+( ) Não tenho certeza
+( ) Nunca
+
+Você sabe o que é um “vírus” ou “malware” de computador/celular e como se proteger deles?
+( ) Sim
+( ) Não
+( ) Já ouvi falar, mas não sei exatamente
+
+Qual dessas situações mais preocupa você ao usar a internet?
+(Você pode marcar mais de uma)
+[ ] Ter dados pessoais roubados
+[ ] Ter a conta bancária invadida
+[ ] Perder o acesso às redes sociais
+[ ] Cair em golpes financeiros
+[ ] Baixar vírus sem saber
+[ ] Outra: _____________
+
+Você se sentiria mais seguro usando a internet se aprendesse práticas básicas de proteção digital?
+( ) Sim
+( ) Talvez
+( ) Não
+( ) Não sei
+
+Você preferiria aprender sobre segurança digital por meio de qual formato?
+( ) Vídeos curtos
+( ) Textos simples com imagens
+( ) Jogos educativos
+( ) Aulas presenciais
+( ) Outro: _______________

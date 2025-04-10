@@ -1,0 +1,59 @@
+1. Barreiras e Dificuldades com Tecnologia
+
+Compreender os obstáculos que impedem o uso seguro da tecnologia.
+
+    Você sente dificuldade em usar certos aplicativos, sites ou serviços online? Quais?
+
+    Você já deixou de usar algum serviço online (ex: banco, compras, serviços públicos) por não se sentir seguro?
+
+2. Dispositivos e Conectividade
+
+Ajuda a entender quais plataformas usar (celular, computador, etc.).
+
+    Com qual dispositivo você mais acessa a internet?
+    ( ) Celular
+    ( ) Computador
+    ( ) Tablet
+    ( ) Outro
+
+    Você tem acesso fácil à internet no seu dia a dia?
+    ( ) Sim
+    ( ) Não
+    ( ) Só com Wi-Fi em casa
+
+3. Conhecimento Prático Atual
+
+Saber o que as pessoas já fazem ou acham que fazem certo ajuda a moldar o conteúdo sem parecer que está “ensinando o básico demais”.
+
+    Você já usa antivírus ou faz atualizações regulares nos seus dispositivos?
+
+    Você costuma verificar se um site é confiável antes de comprar algo online? Como faz isso?
+
+4. Interesses e Estilo de Aprendizado
+
+Para moldar o formato ideal do programa (vídeos, textos, jogos, tutoriais, etc.).
+
+    Como você costuma aprender algo novo na internet?
+    ( ) Vídeos no YouTube
+    ( ) Leitura de artigos
+    ( ) Aulas presenciais
+    ( ) Jogando / testando na prática
+    ( ) Outro
+
+    Você se interessaria por um curso rápido e gratuito sobre segurança digital?
+
+5. Incentivos e Engajamento
+
+Saber o que motiva o público a participar ajuda a manter o engajamento.
+
+    Você se sentiria mais motivado(a) a participar de um curso se recebesse um certificado ao final?
+
+    Você participaria de atividades práticas, como testes ou simulações, para aprender mais sobre segurança digital?
+
+6. Medo e Emoção
+
+Segurança digital está ligada à confiança e medo. Explorar isso ajuda a criar empatia e engajamento emocional.
+
+    Você tem medo de que alguém invada seu celular ou redes sociais? Por quê?
+
+    Você já sentiu que caiu em um golpe online? Como se sentiu?

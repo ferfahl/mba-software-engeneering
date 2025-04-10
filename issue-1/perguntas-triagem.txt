@@ -1,0 +1,27 @@
+Qual é o seu nível de familiaridade com tecnologia?
+( ) Muito alto — trabalho ou estudo na área de tecnologia
+( ) Médio — uso bastante, mas não tenho formação técnica
+( ) Baixo — só uso o básico no dia a dia
+( ) Muito baixo — tenho dificuldade com dispositivos e internet
+
+Você já estudou ou trabalha na área de informática, tecnologia ou segurança digital?
+( ) Sim
+( ) Não
+
+Com que frequência você busca aprender coisas novas sobre tecnologia ou segurança digital?
+( ) Frequentemente
+( ) Às vezes
+( ) Raramente
+( ) Nunca
+
+Você se considera uma pessoa com facilidade para entender assuntos relacionados a tecnologia?
+( ) Sim
+( ) Mais ou menos
+( ) Não
+
+Quantos anos você tem? (Faixa etária ajuda a entender o tipo de linguagem e formato mais acessível)
+( ) Menos de 18
+( ) 18 a 29
+( ) 30 a 44
+( ) 45 a 59
+( ) 60 ou mais
