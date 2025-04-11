@@ -1,0 +1,133 @@
+Pesquisa: Segurança Digital no Dia a Dia
+
+Objetivo: Entender como você usa a internet, quais são suas principais dúvidas e como podemos te ajudar a se proteger melhor no ambiente digital.
+As suas respostas são anônimas e vão nos ajudar a criar um programa educacional gratuito e acessível para todos.
+
+🧩 1. Perfil do Participante
+
+1.1 Qual seu nível de familiaridade com tecnologia?
+( ) Muito alto — trabalho ou estudo na área
+( ) Médio — uso bastante no dia a dia, mas sem formação
+( ) Baixo — uso o básico e tenho dificuldades às vezes
+( ) Muito baixo — tenho bastante dificuldade com tecnologia
+
+1.2 Você já estudou ou trabalha com informática, tecnologia ou segurança digital?
+( ) Sim
+( ) Não
+
+1.3 Com que frequência você tenta aprender coisas novas sobre tecnologia?
+( ) Frequentemente
+( ) Às vezes
+( ) Raramente
+( ) Nunca
+
+1.4 Quantos anos você tem?
+( ) Menos de 18
+( ) 18 a 29
+( ) 30 a 44
+( ) 45 a 59
+( ) 60 ou mais
+
+1.5 Com qual dispositivo você mais acessa a internet?
+( ) Celular
+( ) Computador
+( ) Tablet
+( ) Outro: ____________
+
+1.6 Você tem acesso fácil à internet?
+( ) Sim, o tempo todo
+( ) Sim, mas só com Wi-Fi em casa
+( ) Não tenho acesso fácil
+
+🔐 2. Experiência e Segurança Digital
+
+2.1 Você já teve algum problema com segurança digital?
+(Ex: conta invadida, golpe online, vírus, roubo de dados, etc.)
+( ) Sim
+( ) Não
+( ) Não sei dizer
+
+2.2 Se sim, o que aconteceu?
+(Resposta aberta)
+
+2.3 Você costuma criar senhas diferentes para cada conta online?
+( ) Sim
+( ) Não
+( ) Às vezes
+( ) Não sei como fazer isso
+
+2.4 Você já recebeu mensagens suspeitas por e-mail, WhatsApp ou redes sociais?
+( ) Sim, várias vezes
+( ) Sim, algumas vezes
+( ) Não tenho certeza
+( ) Nunca
+
+2.5 Você sabe o que é um “vírus” ou “malware” e como se proteger?
+( ) Sim
+( ) Não
+( ) Já ouvi falar, mas não entendo bem
+
+😨 3. Preocupações e Medos Online
+
+3.1 Qual dessas situações mais te preocupa na internet?
+(Marque as que quiser)
+[ ] Ter dados pessoais roubados
+[ ] Ter a conta bancária invadida
+[ ] Perder o acesso às redes sociais
+[ ] Cair em golpes financeiros
+[ ] Baixar vírus sem saber
+[ ] Outra: ____________
+
+3.2 Você já deixou de usar um site ou aplicativo por medo de segurança?
+( ) Sim
+( ) Não
+( ) Já pensei nisso, mas usei mesmo assim
+
+3.3 Você já caiu em algum golpe digital? Como se sentiu?
+(Resposta aberta)
+
+📘 4. Hábitos e Aprendizado
+
+4.1 Você atualiza seus dispositivos e aplicativos com frequência?
+( ) Sim
+( ) Às vezes
+( ) Não
+( ) Não sei como fazer isso
+
+4.2 Você verifica se um site é confiável antes de comprar algo online?
+( ) Sim
+( ) Às vezes
+( ) Não
+( ) Nunca comprei online
+
+4.3 Como você costuma aprender algo novo na internet?
+( ) Vídeos no YouTube
+( ) Leitura de textos/artigos
+( ) Cursos rápidos
+( ) Aulas presenciais
+( ) Testando na prática
+( ) Outro: ____________
+
+🚀 5. Interesse e Engajamento
+
+5.1 Você se interessaria por um curso rápido e gratuito sobre segurança digital?
+( ) Sim
+( ) Talvez
+( ) Não
+
+5.2 Qual formato de aprendizado mais te atrai?
+( ) Vídeos curtos
+( ) Textos simples com imagens
+( ) Jogos educativos
+( ) Aulas presenciais
+( ) Outro: ____________
+
+5.3 Você se sentiria mais motivado(a) a participar se recebesse um certificado no final?
+( ) Sim
+( ) Talvez
+( ) Não
+
+5.4 Você participaria de jogos ou simulações práticas para aprender mais sobre segurança digital?
+( ) Sim
+( ) Talvez
+( ) Não
