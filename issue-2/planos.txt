@@ -1,0 +1,58 @@
+1. Estude Fontes Oficiais e Relatórios Públicos
+
+Algumas instituições publicam relatórios anuais ou periódicos com dados sobre ciberataques comuns no Brasil e no mundo — muitos deles com foco em usuários comuns.
+Fontes confiáveis:
+
+    CERT.br (Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil):
+    https://www.cert.br/
+
+        Eles publicam relatórios de incidentes com dados específicos de ataques a usuários comuns (phishing, fraudes, etc).
+
+    SaferNet Brasil:
+    https://www.safernet.org.br/
+
+        Foco em segurança na internet e crimes virtuais. Tem dados e campanhas voltadas ao público geral.
+
+    NIC.br e CGI.br:
+    https://www.nic.br/indicadores/
+
+        Dados sobre o uso da internet no Brasil, incluindo comportamento de usuários com baixa familiaridade.
+
+    Relatórios da Kaspersky, Avast, Norton e outras empresas de segurança
+
+        Eles costumam publicar "relatórios de ameaças" e muitas vezes separam por perfil de usuário (ex: doméstico vs. corporativo).
+
+📊 2. Analise Casos Reais e Notícias
+
+Outra boa forma de identificar ameaças comuns é analisando notícias e reportagens recentes de golpes que viralizaram ou afetaram muita gente.
+Exemplos de boas fontes:
+
+    G1 Tecnologia, TechTudo, Canaltech, Olhar Digital
+
+    Sites de defesa do consumidor como Procon, Reclame Aqui, e Consumidor.gov.br
+
+    Busque no Google coisas como:
+
+        "golpe WhatsApp idosos site:globo.com"
+
+        "phishing bancos brasileiros relatório"
+
+        "fraudes digitais populares 2024"
+
+🧠 3. Categorize as Ameaças Mais Frequentes
+
+Com base nas fontes acima, você pode montar uma tabela ou lista de ameaças que mais aparecem, e categorizá-las. Exemplo:
+Categoria	Ameaça comum	Exemplo prático
+Engenharia Social	Phishing	E-mail de “banco” falso solicitando atualização de dados
+Golpes via app	Golpes no WhatsApp	Conta clonada pedindo dinheiro
+Insegurança digital	Senhas fracas	Usuário usa “123456” em tudo
+Falta de atualização	Malwares antigos	Vírus que se instala por links em redes sociais
+Golpes financeiros	Boletos falsos	Segunda via falsa enviada por SMS
+Exposição de dados	Vazamentos	Dados vazados em redes sociais públicas
+🧭 4. Bonus: Ferramentas e bases de dados úteis
+
+    Google Trends — Pesquise termos como "golpe no WhatsApp", "phishing" ou "como proteger celular".
+
+    VirusTotal Community — Para ver arquivos e links maliciosos mais detectados por usuários comuns.
+
+    [Have I Been Pwned](https://haveibeenpwned.com/) — Para mostrar se dados de e-mails/celulares foram expostos em vazamentos (usado por muita gente leiga sem saber o impacto).
