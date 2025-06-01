@@ -1,0 +1,150 @@
+1. Tríade CIA: Confidencialidade, Integridade e Disponibilidade
+
+A base da segurança da informação está na tríade CIA:
+
+    Confidencialidade: Evitar acesso não autorizado à informação.
+
+    Integridade: Prevenir alterações não autorizadas nos dados.
+
+    Disponibilidade: Garantir que os dados estejam acessíveis quando necessário.
+
+🔍 Esses três princípios guiam todas as abordagens de segurança em sistemas computacionais.
+2. Autenticidade e Responsabilidade (Accountability)
+
+Além da tríade CIA, o livro amplia a visão com:
+
+    Autenticidade: Garantia de que dados, transmissões e identidades são legítimos.
+
+    Responsabilidade: Habilidade de rastrear ações até seus autores (essencial para auditorias e investigações).
+
+3. Modelos de Controle de Acesso
+
+O controle de acesso é essencial para limitar o que usuários podem fazer. O livro aborda:
+
+    DAC (Discretionary Access Control): Controle baseado na discricionariedade do proprietário.
+
+    MAC (Mandatory Access Control): Controle baseado em classificações formais.
+
+    RBAC (Role-Based Access Control): Acesso baseado em funções de usuário.
+
+🔍 RBAC é destacado como modelo eficiente em ambientes organizacionais complexos.
+4. Ameaças e Tipos de Ataques
+
+As ameaças à segurança são classificadas como:
+
+    Ativas (modificação de dados, negação de serviço),
+
+    Passivas (espionagem, monitoramento).
+
+O livro discute:
+
+    Malware: Vírus, worms, trojans, backdoors, rootkits.
+
+    Ataques de DoS/DDoS, engenharia social e exploração de vulnerabilidades.
+
+5. Ferramentas Criptográficas
+
+Grande parte da proteção digital se apoia na criptografia. O livro cobre:
+
+    Criptografia simétrica (AES, DES),
+
+    Criptografia assimétrica (RSA, Diffie-Hellman),
+
+    Assinaturas digitais, hashes, HMAC, e geração de números aleatórios seguros.
+
+6. Segurança de Software e Overflow de Buffer
+
+A obra dedica capítulos ao desenvolvimento seguro de software, com destaque para:
+
+    Buffer Overflow: Um dos ataques mais explorados contra sistemas vulneráveis.
+
+    Boas práticas no tratamento de entradas, saídas e interação com o sistema operacional.
+
+7. Detecção de Intrusos e Firewalls
+
+    IDS (Intrusion Detection Systems): Detectam acessos maliciosos.
+
+    IPS (Intrusion Prevention Systems): Detectam e reagem automaticamente.
+
+    Firewalls: Barreira de controle entre redes com diferentes níveis de confiança.
+
+8. Gestão de Riscos e Planejamento de Segurança
+
+Os capítulos de gestão abordam:
+
+    Análise de risco e avaliação de impacto,
+
+    Planos de continuidade de negócios (BCP),
+
+    Respostas a incidentes e auditorias de segurança.
+
+🔍 Um bom planejamento não depende apenas da tecnologia, mas de políticas, processos e pessoas.
+9. Segurança Física e Fatores Humanos
+
+    Segurança física (acesso a datacenters, perímetros),
+
+    Fatores humanos como políticas de uso, conscientização, treinamento, e segurança em RH.
+
+10. Aspectos Legais e Éticos
+
+O livro aborda:
+
+    Crimes cibernéticos,
+
+    Privacidade e propriedade intelectual,
+
+    Implicações éticas da vigilância e rastreamento digital.
+
+🔍 Prepara o leitor para lidar com questões legais em segurança da informação — fundamentais em ambientes corporativos e governamentais.
+
+--
+
+1.
+
+“The focus of this book, and indeed this field, is on three fundamental questions: What assets do we need to protect? How are those assets threatened? What can we do to counter those threats?”
+(Capítulo 1 – Overview)
+
+🔍 Comentário:
+Essa citação resume o cerne da engenharia de segurança da informação: identificar ativos, avaliar ameaças e implementar contramedidas. É uma estrutura lógica e fundamental que orienta políticas, auditorias e arquiteturas de segurança em qualquer organização.
+2.
+
+“Security is still too often an afterthought to be incorporated into a system after the design is complete.”
+(Capítulo 1 – Challenges of Computer Security)
+
+🔍 Comentário:
+Os autores criticam a prática comum de implementar segurança tardiamente, como um "remendo", em vez de incorporá-la desde a fase de projeto. Isso enfraquece a arquitetura geral do sistema e resulta em soluções ineficazes e mais vulneráveis.
+3.
+
+“The CIA triad—Confidentiality, Integrity, and Availability—embodies the fundamental security objectives for both data and for information and computing services.”
+(Capítulo 1 – Computer Security Concepts)
+
+🔍 Comentário:
+A clássica tríade CIA serve como o alicerce de qualquer política de segurança. Essa citação destaca que esses três pilares se aplicam não apenas aos dados, mas também aos serviços, reforçando uma visão holística da segurança da informação.
+4.
+
+“Security mechanisms typically involve more than a particular algorithm or protocol. They also require that participants be in possession of some secret information.”
+(Capítulo 1 – Challenges of Computer Security)
+
+🔍 Comentário:
+Aqui se mostra que segurança não depende apenas de tecnologia (como criptografia), mas também da gestão de segredos (como chaves) e do comportamento seguro dos usuários. Segurança é um ecossistema sociotécnico, não apenas técnico.
+5.
+
+“Because truly secure systems aren’t yet an achievable goal, we must be able to trace a security breach to a responsible party.”
+(Capítulo 1 – Accountability)
+
+🔍 Comentário:
+A citação enfatiza a responsabilidade e rastreabilidade como pilares compensatórios. Já que a segurança absoluta é inatingível, é essencial manter registros e auditorias que permitam investigação e responsabilização em caso de incidentes.
+6.
+
+“Discretionary access control (DAC) enables the owner of the resource to specify what subjects can access it.”
+(Capítulo 4 – Access Control Principles)
+
+🔍 Comentário:
+Esse conceito é central para o controle de acesso baseado em permissões definidas pelo usuário ou proprietário do recurso. Contrasta com o modelo MAC (Mandatory Access Control), que segue políticas institucionais rígidas. A escolha entre esses modelos afeta diretamente a flexibilidade e risco do sistema.
+7.
+
+“Security is not a product, but a process.”
+(Implícito ao longo da obra, especialmente nos capítulos sobre gerenciamento, auditoria e risco)
+
+🔍 Comentário:
+Essa frase, embora não literal no texto, é uma síntese implícita da abordagem dos autores: segurança deve ser contínua, sistemática e adaptativa. Envolve ciclos de atualização, monitoramento, resposta a incidentes e educação contínua — não uma solução de “instalar e esquecer”.

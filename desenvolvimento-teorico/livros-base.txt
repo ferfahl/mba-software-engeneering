@@ -1,0 +1,73 @@
+🔧 COMO INCORPORAR OS LIVROS NO DESENVOLVIMENTO DO PROJETO
+🔹 1. Fundamentação Teórica: Conceitos e Importância da Segurança Cibernética
+
+➤ Use: Stallings & Brown (Computer Security)
+
+    Para explicar a tríade CIA (Confidencialidade, Integridade e Disponibilidade).
+
+    Para definir ameaças, ataques, e conceitos como controle de acesso, autenticação, responsabilidade (accountability).
+
+    Importante para ancorar os módulos do seu curso em bases conceituais sólidas e amplamente reconhecidas.
+
+📌 Aplicação prática no projeto:
+Ao descrever os temas dos módulos (ex.: senhas, phishing, privacidade), justifique com os princípios da tríade CIA e práticas descritas por Stallings.
+🔹 2. Justificativa Social e Política: Cultura da Vigilância e Privacidade
+
+➤ Use: Bruce Schneier (Data and Goliath)
+
+    Para destacar a importância social e política da privacidade digital, e como o cidadão comum é alvo de coleta e uso indevido de dados.
+
+    Apoia a necessidade de educação ampla e acessível, conforme seu projeto propõe.
+
+    Schneier mostra como a ignorância sobre segurança digital torna o indivíduo vulnerável — isso justifica seu foco em leigos.
+
+📌 Aplicação prática no projeto:
+Na introdução e justificativa, use trechos como:
+
+    “A vigilância em massa não nos torna mais seguros. Ela nos torna menos seguros.”
+    E discorra sobre como educar é proteger, fortalecendo a cidadania digital.
+
+🔹 3. Abordagem Técnica e de Engenharia: Desenho Seguro da Plataforma
+
+➤ Use: Ross Anderson (Security Engineering)
+
+    Para garantir que a plataforma educacional interativa proposta tenha segurança desde a concepção (security by design).
+
+    Fornece insights sobre engenharia social, usabilidade segura e gestão de riscos — cruciais para um app voltado a públicos não técnicos.
+
+    Também útil para pensar em ameaças reais, como fraudes bancárias, simuladas no conteúdo do curso.
+
+📌 Aplicação prática no projeto:
+Na metodologia (plataforma e conteúdo), você pode escrever:
+
+    “Seguindo Anderson (2020), a plataforma será projetada com princípios de segurança incorporados à arquitetura, de modo que a experiência de aprendizado seja segura tanto para o usuário quanto para seus dados.”
+
+🔹 4. Metodologia: Gamificação e Simulações
+
+➤ Articule com os três autores
+
+    Use Stallings para garantir que os cenários de simulação representem ameaças reais e plausíveis.
+
+    Use Anderson para propor simulações que explorem erros humanos e falhas comuns de segurança.
+
+    Use Schneier para dar contexto crítico, mostrando ao aluno o “porquê” da vigilância, phishing, coleta de dados.
+
+📌 Exemplo:
+No módulo “Como identificar golpes online”, crie uma simulação baseada nas técnicas de phishing discutidas por Schneier, com validação técnica extraída de Stallings.
+🔹 5. Avaliação de Resultados e Impacto
+
+➤ Conecte com Schneier e Stallings
+
+    Schneier reforça o valor social de ensinar segurança digital.
+
+    Stallings sugere indicadores como mudança de comportamento, adoção de boas práticas e avaliação contínua.
+
+📌 Exemplo prático no relatório:
+
+    “A avaliação de impacto seguirá o modelo de Guskey (2000) e será apoiada nos indicadores sugeridos por Stallings (2018), como adoção de práticas seguras, percepção de risco e melhoria da confiança digital.”
+
+✅ RESUMO INTEGRADO
+Livro	Contribuição-chave
+Schneier (2015)	Base crítica e cidadã: importância da privacidade, riscos sociais da vigilância
+Anderson (2020)	Engenharia segura, prevenção de falhas humanas, modelagem de ameaças
+Stallings (2018)	Fundamentos técnicos: CIA, autenticação, controle de acesso, criptografia

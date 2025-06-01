@@ -88,7 +88,6 @@ SCHNEIER, B. (2015). Data and Goliath: The Hidden Battles to Collect Your Data a
 ANDERSON, R. (2020). Security Engineering: A Guide to Building Dependable Distributed Systems. Wiley.
 STALLINGS, W., & Brown, L. (2018). Computer Security: Principles and Practice. Pearson.
 RAMOS, R. B. (2024). Metodologias de análise integrada de segurança crítica e segurança cibernética em sistemas ciber físicos (Dissertação (Mestrado). Universidade de São Paulo, São Paulo. Recuperado de https://www.teses.usp.br/teses/disponiveis/3/3141/tde-12072024-091247/pt-br.php
-RAMOS, R. B. (2024). Metodologias de análise integrada de segurança crítica e segurança cibernética em sistemas ciber físicos (Dissertação (Mestrado). Universidade de São Paulo, São Paulo. Recuperado de https://www.teses.usp.br/teses/disponiveis/3/3141/tde-12072024-091247/pt-br.php
 
 •  Educação e Metodologias de Ensino:
 BROWN, T. (2017). Design Thinking. Alta Books, Rio de Janeiro, RJ, Brasil.
