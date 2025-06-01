@@ -3,6 +3,7 @@
 🎯 Objetivo Geral
 
 Desenvolver uma plataforma educacional gamificada, interativa e acessível para ensinar conceitos básicos de segurança digital ao público geral, com foco em prevenção contra ameaças cibernéticas cotidianas.
+
 📚 Temas Centrais da Plataforma
 
     Introdução à Segurança Digital
