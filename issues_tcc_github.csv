@@ -1,0 +1,15 @@
+Title,Description,Labels
+Definir stack tecnológica da plataforma gamificada,Analisar as necessidades do projeto e escolher entre opções como React + Firebase ou Django + Vue. Documentar a escolha e justificar.,"dev,prioridade-alta"
+Criar protótipo da jornada do usuário,"Desenhar as principais telas da plataforma: login, seleção de trilhas, módulo de conteúdo, quiz, progresso e conclusão.","frontend,conteúdo"
+Implementar sistema de login e autenticação,Criar tela de login e cadastro com Firebase Auth. Validar usuários por e-mail e salvar progresso no backend.,"dev,frontend"
+Criar componente reutilizável para quizzes,"Componente com perguntas de múltipla escolha, respostas corretas/erradas, sistema de pontuação e feedback visual.","frontend,gamificação"
+Desenvolver módulo: Senhas e Autenticação,"Adicionar conteúdo (vídeo, texto, quiz) ao módulo sobre senhas fortes, 2FA e gerenciadores.","conteúdo,frontend"
+Desenvolver módulo: Privacidade e Redes Sociais,"Adicionar material sobre oversharing, configurações de privacidade e boas práticas.","conteúdo,frontend"
+Desenvolver visualização do progresso nas trilhas,"Exibir quais módulos o usuário já completou, com barra de progresso e conquistas.","frontend,gamificação,dev"
+Testar usabilidade e responsividade da plataforma,Verificar funcionamento da plataforma em diferentes dispositivos. Ajustar CSS e comportamento.,"testes,frontend"
+Beta fechado com grupo piloto,Convidar usuários para testar a plataforma e preencher formulário de feedback.,"testes,feedback"
+Aplicar melhorias baseadas nos testes com usuários,"Revisar conteúdo, interface e navegação de acordo com os comentários recebidos no beta fechado.","feedback,ajustes-finais"
+Capturar prints e gerar material para apêndices do TCC,"Tirar prints das trilhas, quizzes, login e progresso. Organizar dados para anexar ao TCC.","relatório,documentação"
+Escrever metodologia do TCC,"Detalhar a escolha da stack, design, trilhas, testes e validação no relatório final.",relatório
+Revisar e formatar TCC para entrega,"Revisar ortografia, normas acadêmicas e garantir que todas as seções estejam completas.","relatório,prioridade-alta"
+Finalizar pacote de entrega do projeto,"Organizar arquivos da plataforma, TCC, apêndices e backups. Criar apresentação final se necessário.","ajustes-finais,entrega"
