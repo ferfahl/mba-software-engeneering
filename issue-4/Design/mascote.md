@@ -27,3 +27,42 @@ A Raposa "Aventureira do Conhecimento":
 	Cores: Cores vibrantes, talvez com toques de amarelo e verde para remeter a descobertas e novos caminhos, junto com os tons clássicos da raposa.
 
 Ao estilizar, pense em como o mascote pode ser dinâmico e expressivo para diferentes situações na plataforma: celebrando uma conquista, indicando um erro, ou guiando o usuário por um novo módulo.
+
+# 🦊 Expressões e Cenários do Mascote – Caminho da Raposa
+
+## 🏁 Navegação e Guiagem
+- [X] Início de nova trilha — raposa animada com mochila ou mapa
+- [ ] Acompanhando progresso — raposa caminhando sobre linha pontilhada
+- [ ] Módulo bloqueado ou futuro — raposa sentada olhando para um cadeado
+
+## 🎉 Conquistas e Recompensas
+- [ ] Módulo finalizado — raposa pulando com medalha e confetes
+- [ ] Nova medalha desbloqueada — raposa exibindo troféu com orgulho
+- [ ] Avanço de nível ou XP — raposa apontando para barra de progresso cheia
+
+## ❗ Erros, Alertas e Feedback
+- [ ] Resposta errada em quiz — raposa sem graça coçando a cabeça
+- [ ] Página 404 — raposa perdida com bússola quebrada
+- [ ] Falha de sistema — raposa tentando consertar fios ou tablet quebrado
+
+## 🧠 Aprendizado e Exploração
+- [ ] Explicando um conceito — raposa com óculos e lousa digital
+- [ ] Dando dica ou atalho — raposa piscando com lâmpada acesa
+- [ ] Explorando novo conteúdo — raposa espiando por trás de um livro ou terminal
+
+## 🤝 Interação com o Usuário
+- [ ] Saudação ao login — raposa acenando com “Bem-vinde, [nome]!”
+- [ ] Incentivo após tentativa — raposa com polegar levantado e mensagem de apoio
+- [ ] Despedida após sessão — raposa indo embora com mochila e “Até logo!”
+
+
+utilize as cores para itens de fundo, mantenha as cores da raposa constantes conforme a imagem anexada
+| Magenta suave                     | `#C75EEB`   |
+| Lavanda escura                    | `#A16FCF`   |
+| Magenta intenso                   | `#B347DC`   |
+| Roxo azulado vibrante             | `#6C63FF`   |
+| Roxo escuro elegante              | `#5C2A7C`   |
+| Cinza grafite neutro              | `#2D2D2D`   |
+| Azul violeta profundo             | `#3E4B7E`   |
+| Branco quente (off-white)         | `#FAFAFA`   |
+| Cinza lavanda sutil               | `#D9D3E5`   |
