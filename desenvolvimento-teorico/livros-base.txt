@@ -71,3 +71,70 @@ Livro	Contribuição-chave
 Schneier (2015)	Base crítica e cidadã: importância da privacidade, riscos sociais da vigilância
 Anderson (2020)	Engenharia segura, prevenção de falhas humanas, modelagem de ameaças
 Stallings (2018)	Fundamentos técnicos: CIA, autenticação, controle de acesso, criptografia
+
+
+🔐 Segurança da Informação / Cibernética (com foco em fundamentos e impacto social)
+
+    Pfleeger, Charles P.; Pfleeger, Shari Lawrence.
+    Security in Computing. 5. ed. Pearson, 2015.
+
+        Excelente base sobre princípios de segurança (CIA), ameaças, ataques, e contramedidas. Tem capítulos acessíveis mesmo para não técnicos.
+
+    Solove, Daniel J.
+    Understanding Privacy. Harvard University Press, 2008.
+
+        Referência essencial para abordar o impacto da exposição de dados pessoais e o papel da educação digital na proteção da privacidade.
+
+    Castells, Manuel.
+    A sociedade em rede. 7. ed. São Paulo: Paz e Terra, 2007.
+
+        Dá suporte para discutir segurança digital no contexto da cidadania informacional e exclusão digital.
+
+    Tavares, Valéria; Bernardi, Adriana.
+    Segurança da informação na sociedade da informação. São Paulo: Saraiva, 2014.
+
+        Introduz os aspectos sociais da segurança, com linguagem acessível.
+
+🎮 Gamificação e Aprendizagem Interativa
+
+    Werbach, Kevin; Hunter, Dan.
+    For the Win: How Game Thinking Can Revolutionize Your Business. Wharton Digital Press, 2012.
+
+        Base conceitual sobre gamificação aplicada a ambientes educacionais e corporativos.
+
+    Deterding, Sebastian et al.
+    Gamification: Toward a Definition. In: CHI 2011.
+
+        Artigo seminal que define gamificação e diferencia de jogos propriamente ditos.
+
+    Gee, James Paul.
+    What Video Games Have to Teach Us About Learning and Literacy. Palgrave Macmillan, 2003.
+
+        Clássico que explica como jogos promovem engajamento, experimentação e aprendizagem profunda.
+
+🧠 Design Educacional e Pensamento do Usuário
+
+    Norman, Donald A.
+    The Design of Everyday Things. Revised edition. MIT Press, 2013.
+
+        Para fundamentar usabilidade e acessibilidade do site. Pode ser usado para reforçar a escolha de uma linguagem não técnica.
+
+    Kolb, David A.
+    Experiential Learning: Experience as the Source of Learning and Development. Prentice Hall, 1984.
+
+        Dá suporte teórico para escolha de métodos baseados em simulações e experiências práticas.
+
+    Freire, Paulo.
+    Pedagogia do Oprimido. Paz e Terra, 1987.
+
+    Caso deseje reforçar o valor da educação crítica, participativa e voltada para a autonomia do sujeito.
+
+🧩 Dica de organização:
+
+Você pode dividir seu referencial teórico em três blocos temáticos:
+
+    Segurança Digital e seus desafios para o público leigo
+
+    Gamificação e aprendizagem interativa como estratégias educativas
+
+    Design centrado no usuário e alfabetização digital crítica
