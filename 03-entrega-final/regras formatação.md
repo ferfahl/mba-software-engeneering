@@ -4,9 +4,9 @@ Use esta lista para garantir que seu TCC está em conformidade com as normas exi
 
 ## ✅ Formatação Geral
 
-- [ ] Documento em formato A4 (210x297mm), orientação retrato
+- [X] Documento em formato A4 (210x297mm), orientação retrato
 - [ ] Margens de 2,5 cm em todos os lados
-- [ ] Fonte Arial, tamanho 11, cor preta
+- [X] Fonte Arial, tamanho 11, cor preta
 - [ ] Texto justificado (exceto referências, que devem ser alinhadas à esquerda)
 - [ ] Espaçamento entrelinhas de 1,5 (exceto Resumo, Figuras, Tabelas e Notas: simples)
 - [ ] Recuo de 1,25 cm na primeira linha de cada parágrafo (exceto Resumo e Referências)
@@ -16,10 +16,10 @@ Use esta lista para garantir que seu TCC está em conformidade com as normas exi
 ## 🧱 Estrutura do TCC
 
 ### Seções Obrigatórias
-- [ ] Folha de rosto com cabeçalho, título, autores e endereços
-- [ ] Título com até 15 palavras
+- [X] Folha de rosto com cabeçalho, título, autores e endereços
+- [X] Título com até 15 palavras
 - [ ] Resumo (ou Sumário Executivo) com até 250 palavras
-- [ ] Palavras-chave (3 a 5, diferentes do título)
+- [X] Palavras-chave (3 a 5, diferentes do título)
 - [ ] Introdução com contextualização e objetivo no último parágrafo
 - [ ] Metodologia (ou Material e Métodos), detalhada e impessoal
 - [ ] Resultados e Discussão, com base na literatura
@@ -48,3 +48,7 @@ Use esta lista para garantir que seu TCC está em conformidade com as normas exi
 - [ ] Nenhum nome de empresa/pessoa/instituição revelado no corpo do texto
 - [ ] Todas as fontes referenciadas corretamente no texto e na lista de Referências
 - [ ] Instruções do template removidas antes do envio
+
+
+## Ajustes
+- [ ] Tópico 16.5 da Norma: Subtítulos são permitidos nesta seção e, quando utilizados, devem ser grafados em negrito, sem numeração, com recuo especial de 1,25 cm, com a primeira letra maiúscula e separados por um espaço de caractere antes e após sua inserção
