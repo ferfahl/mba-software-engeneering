@@ -1,0 +1,157 @@
+Trilhas Temáticas da Plataforma Educacional
+
+Trilha 1 – Defesa Pessoal Digital
+---------------------------------
+A trilha “Defesa Pessoal Digital” tem como objetivo introduzir os fundamentos da segurança da informação de forma acessível e contextualizada, capacitando os usuários a protegerem suas credenciais e informações pessoais no ambiente digital. Esta trilha responde diretamente às vulnerabilidades mais mencionadas na pesquisa, como a invasão de contas e o uso de senhas fracas e repetidas. A seleção dos conteúdos leva em conta a predominância de participantes com familiaridade média com tecnologia e a preferência por atividades práticas, simulações e explicações visuais.
+
+A base conceitual da trilha está ancorada na chamada tríade da segurança da informação (CIA), composta pelos princípios de Confidencialidade, Integridade e Disponibilidade. Esses pilares são apresentados de forma aplicada, por meio de exemplos cotidianos que facilitam a compreensão dos riscos e das medidas preventivas.
+
+O conteúdo é estruturado para que o usuário compreenda, em primeiro lugar, a importância de senhas fortes. São apresentados critérios para elaboração segura, como o uso de mais de 12 caracteres, combinação de letras maiúsculas, minúsculas, números e símbolos, além da recomendação de utilizar frases aleatórias que sejam fáceis de lembrar e difíceis de adivinhar. O módulo inclui exemplos práticos e atividades de verificação da força da senha por meio de ferramentas confiáveis online, como o validador do Bitwarden.
+
+Em seguida, é abordado o uso da autenticação de dois fatores (2FA) como medida de segurança complementar. O conteúdo explica o funcionamento da 2FA, seus benefícios e os métodos mais comuns (código por SMS, aplicativos autenticadores, e-mail), além de oferecer um tutorial para ativação da funcionalidade em plataformas populares como Google, Instagram e WhatsApp.
+
+Outro elemento central da trilha é o incentivo ao uso de gerenciadores de senhas. A prática de reutilizar senhas ou armazená-las de forma insegura é destacada como um risco recorrente, e são apresentadas ferramentas como Bitwarden, 1Password, Dashlane e LastPass, com explicações sobre funcionamento, vantagens e segurança. Os usuários são incentivados a testar um desses serviços por meio de uma atividade prática orientada.
+
+Todas as seções são acompanhadas de atividades de fixação e revisão, incluindo:
+
+- Quiz com cinco questões sobre os conceitos abordados, com foco na tríade CIA, boas práticas de senhas, 2FA e gerenciadores.
+- Desafio prático de substituição de senhas antigas por novas, construídas com base nas recomendações fornecidas.
+- Simulação de ativação de autenticação em duas etapas, com registro da escolha do método e reflexão sobre sua experiência.
+- Exploração supervisionada de um gerenciador de senhas, incentivando a criação e o armazenamento de credenciais seguras.
+
+Complementam o módulo uma série de materiais visuais (cards ou slides explicativos), incluindo representações gráficas da tríade CIA, guias visuais para criação de senhas fortes, esquemas do fluxo da autenticação em duas etapas e ilustrações das funcionalidades dos gerenciadores de senha.
+
+Essa trilha se apresenta como ponto de partida para o desenvolvimento da autonomia digital dos usuários, preparando-os para lidar com riscos básicos de segurança cibernética de forma segura, informada e engajada. Seu caráter introdutório, didático e altamente aplicado justifica sua posição como o primeiro módulo da plataforma e pré-requisito para o desbloqueio das demais trilhas.
+
+Trilha 2 – Golpes e Trapaças
+----------------------------
+A trilha “Golpes e Trapaças” foi desenvolvida com o objetivo de capacitar os usuários a identificar, evitar e denunciar golpes digitais com foco em tentativas de phishing, perfis clonados, mensagens suspeitas e sites fraudulentos. A presença recorrente desses relatos na pesquisa — especialmente no que diz respeito a golpes em nome de familiares, mensagens bancárias falsas e links perigosos — justificou a criação de um módulo exclusivo dedicado a esse tipo de ameaça.
+
+O conteúdo parte da explicação sobre como funcionam os golpes de engenharia social, apresentando seus principais mecanismos de convencimento e manipulação psicológica. São destacados exemplos como o golpe do "filho com número novo", solicitações de Pix urgentes, links de “rastreamento de entrega” e promessas de prêmios. O módulo apresenta ainda estratégias práticas de verificação, como a análise do remetente, a visualização do endereço real de um link e a avaliação de erros de ortografia e urgência no tom da mensagem.
+
+Além dos fundamentos conceituais, a trilha se vale de exemplos visuais reais e simulados, incluindo prints de mensagens de WhatsApp, e-mails suspeitos e páginas falsas. O objetivo é desenvolver no usuário a habilidade de reconhecer padrões de golpe por meio da experiência prática.
+
+Uma das atividades centrais do módulo é a simulação interativa intitulada “Detective Digital”, na qual o usuário analisa diferentes situações — mensagens, e-mails ou interações suspeitas — e decide se há risco de golpe. A cada resposta, o sistema fornece feedback explicativo com os sinais que indicam fraude ou segurança.
+
+As atividades de reforço incluem:
+
+- Quiz de identificação de fraudes com base em cenários comuns (sorteios falsos, cobrança urgente, links disfarçados).
+- Exercício prático de análise de prints simulados, destacando onde estão os sinais de risco.
+- Desafio de responder corretamente a cinco tentativas de golpe consecutivas no jogo “Detective Digital”.
+- Orientações sobre como denunciar golpes e proteger contatos próximos após uma tentativa de fraude.
+
+A trilha também contempla a noção de segurança reativa: além de evitar o clique ou a resposta ao golpe, o usuário aprende o que fazer depois de um erro — como trocar senhas, verificar dispositivos e relatar o ocorrido.
+
+Com linguagem acessível e abordagem lúdica, este módulo visa não apenas ensinar, mas também fortalecer a confiança dos usuários para agir em situações reais. Ele é especialmente importante para públicos com pouca familiaridade com análise de risco, e serve como base para trilhas mais avançadas de resposta a ataques.
+
+Trilha 3 – Compras com Segurança
+--------------------------------
+A trilha “Compras com Segurança” tem como foco capacitar os usuários a realizar transações online com maior segurança e discernimento, prevenindo golpes financeiros em plataformas de e-commerce, redes sociais e aplicativos de pagamento. Esta trilha responde à recorrência de relatos sobre fraudes envolvendo marketplaces, sites falsos e transferências indevidas por Pix.
+
+Inicialmente, são apresentados critérios para verificação da segurança de um site, como a presença do protocolo HTTPS, consistência do endereço (URL), presença de CNPJ e canais de atendimento, e análise de reputação em serviços como o Reclame Aqui. A trilha também orienta sobre o uso de formas de pagamento seguras, destacando o uso de cartões virtuais e o cuidado redobrado com transferências via Pix.
+
+Os participantes aprendem a identificar práticas suspeitas, como urgência no fechamento de negócios, exigência de pagamento por fora da plataforma e envio de comprovantes falsos. Situações reais são simuladas para que o usuário exercite o julgamento crítico diante de um processo de compra ou venda.
+
+Um dos destaques da trilha é o mini-jogo “Missão OLX”, no qual o participante assume o papel de comprador ou vendedor e precisa tomar decisões seguras frente a interações suspeitas. O jogo fornece feedback imediato sobre as escolhas, reforçando o aprendizado com base em consequências práticas.
+
+As atividades incluem:
+
+- Quiz sobre práticas de segurança em e-commerce e sinais de alerta em marketplaces.
+- Desafio prático com simulações de anúncios, ofertas e interações de compra e venda.
+- Exercício de verificação de um site real, analisando sua segurança com base nos critérios fornecidos.
+- Orientações sobre canais de denúncia e mecanismos de recuperação de valores em caso de golpe.
+
+A trilha busca desenvolver a autonomia digital em transações comerciais, com ênfase em prevenção, verificação e reação responsável diante de tentativas de fraude online.
+
+Trilha 4 – Máquinas Protegidas
+------------------------------
+A trilha “Máquinas Protegidas” tem como objetivo ensinar boas práticas para manter dispositivos digitais — como celulares, computadores e tablets — protegidos contra vírus, malwares e softwares maliciosos. A necessidade deste módulo foi identificada nas respostas que mencionavam lentidão dos dispositivos, instalação de programas suspeitos e uso de versões piratas de softwares populares.
+
+O conteúdo começa com orientações sobre a importância de manter o sistema operacional e os aplicativos atualizados. São apresentados os principais antivírus gratuitos e pagos, assim como recomendações sobre o uso de atualizações automáticas.
+
+O módulo também alerta sobre os riscos do uso de programas piratas e modificados, que frequentemente vêm com malwares embutidos e comprometem a segurança do dispositivo. Ferramentas legítimas e gratuitas, como alternativas ao Microsoft Office ou softwares de edição, são sugeridas para promover hábitos mais seguros.
+
+O usuário aprende a reconhecer sinais comuns de infecção, como travamentos frequentes, propagandas inesperadas e comportamento anômalo do sistema. São apresentados os passos a seguir ao detectar um possível comprometimento, incluindo desconexão da internet, escaneamento com antivírus e, se necessário, suporte técnico confiável.
+
+Atividades da trilha:
+
+- Quiz para identificação de comportamentos de risco e sinais de infecção.
+- Exercício de atualização de sistema e instalação de antivírus gratuito confiável.
+- Simulação de resposta rápida a um ataque com pop-ups e links maliciosos.
+- Desafio: eliminar programas de origem duvidosa do dispositivo.
+
+Com abordagem clara e técnica, esta trilha fortalece a consciência sobre o papel do usuário na manutenção da segurança dos próprios equipamentos digitais.
+
+Trilha 5 – Você é o Alvo
+------------------------
+A trilha “Você é o Alvo” tem como foco a conscientização sobre a exposição de dados pessoais e os riscos associados ao vazamento de informações sensíveis. Relatos de participantes que identificaram uso indevido de seus dados e contas acessadas por terceiros reforçaram a urgência desse conteúdo.
+
+O módulo introduz os conceitos de dados pessoais e dados sensíveis, destacando aqueles protegidos pela Lei Geral de Proteção de Dados (LGPD), como nome, CPF, endereço, origem racial, religião, opiniões políticas e dados de saúde. São explicadas as formas mais comuns de vazamento: falhas em bancos de dados de empresas, cadastros em sites inseguros, e ataques por engenharia social.
+
+São apresentadas ferramentas de verificação de exposição digital, como o site HaveIBeenPwned, além de boas práticas para limitar a exposição online, como revisar a privacidade em redes sociais, evitar uso de CPF em cadastros não confiáveis e não divulgar informações sensíveis em grupos e comentários públicos.
+
+Atividades desta trilha incluem:
+
+- Simulação interativa em que o usuário avalia perfis fictícios e identifica pontos de exposição excessiva.
+- Exercício de consulta em sites de verificação de vazamento de dados.
+- Desafio de reconstrução de perfil digital seguro a partir de um exemplo comprometido.
+- Quiz com perguntas sobre dados pessoais, proteção e medidas de contenção após um vazamento.
+
+A trilha visa promover o pensamento crítico e o controle sobre a identidade digital, capacitando os usuários a reduzir os riscos de uso indevido de suas informações.
+
+Trilha 6 – Ajuda para Todos
+---------------------------
+A trilha “Ajuda para Todos” foi concebida com foco em usuários com baixa familiaridade digital, incluindo idosos, iniciantes e pessoas com dificuldades de acesso ou compreensão de tecnologia. Os relatos que demonstravam medo, insegurança e dependência de terceiros para realizar tarefas simples online embasaram a criação deste módulo.
+
+O conteúdo é apresentado em linguagem simplificada, com uso extensivo de vídeos curtos, tutoriais passo a passo com áudio e ilustrações intuitivas. O foco está na construção de autonomia digital gradual, por meio de temas como segurança no WhatsApp, cuidados com senhas, uso consciente do celular e verificação de mensagens suspeitas.
+
+Exemplos práticos do cotidiano são utilizados, como golpes de “filho pedindo Pix”, mensagens falsas com links e chamadas de suporte técnico fraudulentas. O conteúdo também promove a repetição, o reforço positivo e o uso de ícones acessíveis.
+
+Atividades:
+
+- Quiz com situações reais adaptadas para linguagem simples.
+- Missões diárias com boas práticas, como “trocar uma senha fraca” ou “confirmar uma mensagem antes de responder”.
+- Vídeos com depoimentos de pessoas da mesma faixa etária, compartilhando como aprenderam a se proteger online.
+- Exercícios de reconhecimento de elementos de segurança em um app de banco ou rede social.
+
+Esta trilha é essencial para inclusão digital com responsabilidade, reduzindo a desigualdade de conhecimento e ampliando a proteção de públicos vulneráveis.
+
+Trilha 7 – Segurança nas Redes Sociais
+--------------------------------------
+A trilha “Segurança nas Redes Sociais” trata do uso consciente, ético e seguro das mídias sociais. Relatos frequentes de clonagem de perfis, disseminação de fake news e comentários maliciosos apontaram para a necessidade de um módulo voltado à proteção e comportamento em ambientes digitais.
+
+O conteúdo aborda a identificação de notícias falsas, uso de verificadores como Lupa e Aos Fatos, e os sinais de perfis automatizados ou mal-intencionados. São apresentados os recursos de privacidade e segurança disponíveis nas principais redes sociais, com tutoriais de configuração e explicação sobre engajamento responsável.
+
+A trilha utiliza o jogo simulado “Rede em Alerta”, no qual o usuário interage com um feed fictício, analisando postagens e decidindo entre curtir, denunciar, checar a fonte ou ignorar. O resultado é um índice de engajamento consciente.
+
+Atividades:
+
+- Quiz sobre práticas de segurança e ética em redes sociais.
+- Simulação de análise de postagens com sinais de fake news, sorteios enganosos e perfis clonados.
+- Desafio de configurar corretamente as permissões de privacidade de uma rede social.
+- Exercício de comparação entre um perfil autêntico e um falso.
+
+Essa trilha fortalece a capacidade de discernimento dos usuários, reduz o risco de manipulação e fomenta uma cultura digital mais crítica e segura.
+
+Trilha 8 – Simulação de Ataques
+-------------------------------
+A trilha “Simulação de Ataques” busca desenvolver nos usuários a habilidade de reagir a incidentes digitais em tempo real, oferecendo um ambiente controlado para a prática de respostas rápidas a vazamentos, links perigosos, sequestro de dados e golpes de suporte técnico.
+
+Os participantes são expostos a situações simuladas que replicam notificações, e-mails, pop-ups e mensagens de redes sociais. Cada interação exige uma decisão do usuário: clicar, ignorar, investigar ou denunciar. Após a escolha, é apresentado um feedback detalhado com explicações e orientações.
+
+Conteúdos incluem:
+
+- Passos imediatos após clicar em um link malicioso.
+- Medidas de contenção diante de ransomware.
+- Como interromper comunicação com golpistas e onde denunciar.
+- Recuperação de contas comprometidas.
+
+Atividades:
+
+- Simulação gamificada “Modo Crise”, com tempo real e múltiplos cenários.
+- Quiz de reconhecimento de armadilhas digitais.
+- Exercício de checklist de segurança após incidente.
+- Acesso a materiais de apoio e canais oficiais de suporte e denúncia.
+
+Esta trilha é essencial para consolidar a autonomia e a prontidão do usuário, permitindo que erros sejam corrigidos com rapidez e segurança, promovendo uma postura proativa frente aos riscos digitais.
+
