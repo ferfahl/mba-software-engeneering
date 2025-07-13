@@ -1,0 +1,38 @@
+Referências 
+
+ANDERSON, Ross. Security Engineering: A Guide to Building Dependable Distributed Systems. 3. ed. Indianapolis: Wiley, 2020.
+ANDRADE, Daniel; SALVADOR, Emerson. Gamificação e Segurança da Informação: Uma abordagem para capacitação de usuários finais. Revista Gestão da Segurança da Informação, v. 13, n. 2, p. 77–89, 2022.
+AMBROSE, Gavin; HARRIS, Paul. Design Thinking. Brookman: Porto Alegre, RS, Brasil, 2015.
+BIGATON, A. et al. Metodologias de pesquisa para trabalhos de conclusão de curso. Piracicaba: Editora PECEGE, 2024.
+BROWN, Tim. Change by design: how design thinking creates new alternatives for business and society. Boston: Harvard Business Review Press, 2009.
+BROWN, Tim. Design Thinking: Uma metodologia poderosa para decretar o fim das velhas ideias. Rio de Janeiro: Alta Books, 2017.
+EVANS, Eric. Domain-driven design: tackling complexity in the heart of software. Boston: Addison-Wesley, 2004.
+GEE, James Paul. What video games have to teach us about learning and literacy. New York: Palgrave Macmillan, 2003.
+HAMARI, Juho; KOIVISTO, Jonna; SARSA, Harri. Does gamification work? – A literature review of empirical studies on gamification. In: HAWAII INTERNATIONAL CONFERENCE ON SYSTEM SCIENCES (HICSS), 47., 2014, Hawaii. Proceedings.... Hawaii: IEEE, 2014. p. 3025–3034. DOI: 10.1109/HICSS.2014.377.
+KAPP, Karl M. The Gamification of Learning and Instruction: Game-Based Methods and Strategies for Training and Education. San Francisco: Pfeiffer, 2012.
+LIMA, Guilherme. Domain Driven Design II. USP/Esalq, 2025.
+MARTIN, Robert C. Arquitetura Limpa: O guia do artesão para estrutura e design de software. Rio de Janeiro: Alta Books, 2019.
+RAMOS, Rogério Brito. Metodologias de análise integrada de segurança crítica e segurança cibernética em sistemas ciber físicos. 2024. Dissertação (Mestrado em Ciências) – Escola Politécnica, Universidade de São Paulo, São Paulo, 2024.
+SCHNEIER, Bruce. Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World. New York: W.W. Norton & Company, 2015.
+STALLINGS, William; BROWN, Lawrie. Computer Security: Principles and Practice. 4. ed. Boston: Pearson, 2018.
+
+
+
+•  Educação e Metodologias de Ensino:
+PRENSKY, M. (2010). Teaching Digital Natives: Partnering for Real Learning. Corwin Press.
+RADFAHRER, L. (2011). Ferramentas para o ensino digital. Folha de São Paulo. São Paulo: Escola de Comunicações e Artes, Universidade de São Paulo. Recuperado de https://www.eca.usp.br/acervo/acervo-local/producao-academica/002186826.pdf
+MUNIZ, S. R. (2016). Ferramentas digitais para personalizar o ensino. In Programação. São Paulo: Universidade de São Paulo - USP, Pró-Reitoria de Graduação - PRG. Recuperado de http://biton.uspnet.usp.br/cgrad/wp-content/uploads/2016/07/Programacao_CONGRESSO_GRAD_2016.pdf
+
+•  DESENVOLVIMENTO DE PROGRAMAS EDUCACIONAIS:
+COHN, M. (2011). Desenvolvimento de software com Scrum. Bookman, Porto Alegre, RS, Brasil.
+SUTHERLAND, J. (2014). Scrum: a arte de fazer o dobro de trabalho na metade do tempo. Leya, São Paulo, SP, Brasil.
+MASSARI, V.L. (2018). Gerenciamento ágil de projetos. 2ed. Brasport. Rio de Janeiro, RJ, Brasil.
+
+•  Gamificação e Aprendizagem Interativa:
+BAUER, Adriana e FERNANDES, Fabiana Silva. Avaliação de projetos, programas e políticas educacionais. Estudos em Avaliação Educacional, v. 33, 2022
+TODA, A. M. (2021). Contributions for Gamification Design in Educational Contexts (Tese (Doutorado). Universidade de São Paulo, São Carlos. Recuperado de https://www.teses.usp.br/teses/disponiveis/55/55134/tde-23062021-114011/
+PEDRO, L. Z., & ISOTANI, S. (2016). Explorando o impacto da gamificação na redução do gaming the system em um ambiente virtual de aprendizagem. In Anais. Porto Alegre, RS: SBC. doi:10.5753/cbie.wcbie.2016.81
+
+•  Avaliação de Programas Educacionais:
+Kirkpatrick, D. L., & Kirkpatrick, J. D. (2006). Evaluating Training Programs: The Four Levels. Berrett-Koehler Publishers.
+Guskey, T. R. (2000). Evaluating Professional Development. Corwin Press.
