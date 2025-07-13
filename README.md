@@ -24,9 +24,9 @@ repository to help the development of the "tcc" for the mba on USP/Esalq
 - [ ] Criar documento `.md` com planejamento e justificativas
 
 ### ✍️ Conteúdos dos Módulos (para Anexo do TCC)
-- [ ] Redigir os **8 módulos educacionais** como capítulos textuais
-- [ ] Definir objetivos por módulo (formato educacional)
-- [ ] Justificar cada módulo com base nos dados da pesquisa
+- [X] Redigir os **8 módulos educacionais** como capítulos textuais
+- [X] Definir objetivos por módulo (formato educacional)
+- [X] Justificar cada módulo com base nos dados da pesquisa
 - [ ] Incluir exemplos, casos reais ou simulações básicas
 - [ ] Revisar linguagem (acessível, didática, coesa)
 
@@ -37,18 +37,18 @@ repository to help the development of the "tcc" for the mba on USP/Esalq
 - [ ] Capturar **prints** organizados por fluxo para usar no apêndice
 
 ### 📄 Redação do TCC (em Word)
-- [ ] Introdução (contexto, objetivos, justificativa)
+- [X] Introdução (contexto, objetivos, justificativa)
 - [ ] Metodologia (pesquisa, seleção dos módulos, critérios)
-- [ ] Resultados Preliminares (análise da pesquisa)
+- [X] Resultados Preliminares (análise da pesquisa)
 - [ ] Discussão (decisões pedagógicas, protótipo, conteúdo)
 - [ ] Conclusão (entregas, limitações, trabalhos futuros)
-- [ ] Referências (formato ABNT)
+- [X] Referências (formato ABNT)
 
 ### 📎 Apêndices e Anexos (Word)
-- [ ] Apêndice A: Prints das telas do protótipo Figma
-- [ ] Apêndice B: Trechos de relatos da pesquisa (anônimos)
-- [ ] Anexo A: Textos integrais dos módulos educacionais
-- [ ] Verificar normas da instituição para formatação correta
+- [x] Apêndice A: Pesquisa aplicada
+- [x] Apêndice B: Trechos de relatos da pesquisa (anônimos)
+- [x] Apêndice C: Textos integrais dos módulos educacionais
+- [ ] Apêndice D: Prints das telas do protótipo Figma
 
 ### 🧾 Finalização e Entrega
 - [ ] Revisar ortografia, coesão e ABNT
